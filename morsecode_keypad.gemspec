@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name = 'morsecode_keypad'
-  s.version = '0.1.0'
+  s.version = '0.1.1'
   s.summary = 'Designed for using morsecode on the Raspberry Pi with a keypad which has 4 buttons (dash, dot, separator, and send).'
   s.authors = ['James Robertson']
   s.files = Dir['lib/morsecode_keypad.rb']
